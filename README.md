@@ -1,4 +1,4 @@
-# 10t1m_Internship
+# 10k1m_Internship
 
 
 ## 계획
