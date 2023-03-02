@@ -28,9 +28,9 @@ Result : 앱 구조 이해 및 SwiftUI를 사용한 앱 개발 지식 획득
 
 ### 도서   
 
-Name : The Swift Programming Language
-Price : Free
-Result : swift 문법이해
+Name : The Swift Programming Language   
+Price : Free    
+Result : swift 문법이해   
 
 
 
