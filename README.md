@@ -11,7 +11,7 @@
 ## 강의
 
 ### swift Basic
-
+0
 Name : 개발하는 정대리 스위프트 기초 문법   
 Link : https://www.inflearn.com/course/%EC%A0%95%EB%8C%80%EB%A6%AC-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EC%B4%88#curriculum   
 Price : Free  
@@ -32,6 +32,14 @@ Name : The Swift Programming Language
 Price : Free
 Result : swift 문법이해
 
+
+
+
+
+#### 부족한 것
+> english   
+> software Architecture    
+> app dev     
 
 
 
