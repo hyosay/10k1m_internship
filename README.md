@@ -13,8 +13,8 @@
 - MICROSOFT 모던 모바일 마우스
 - 감성공장 프리미엄 노트북 맥북 거치대 스탠드 받침대 접이식 알루미늄
 
-price : 23,900  
-link : [link](https://smartstore.naver.com/gamsungfactorystore/products/6035260575?n_media=27758&n_query=%EB%A7%A5%EB%B6%81%EA%B1%B0%EC%B9%98%EB%8C%80&n_rank=1&n_ad_group=grp-a001-02-000000019791610&n_ad=nad-a001-02-000000160442206&n_campaign_type=2&n_mall_id=ncp_1ntrua_01&n_mall_pid=6035260575&n_ad_group_type=2&NaPm=ct%3Dleqk2dy0%7Cci%3D0yK0003t6e1yNj2EQv0f%7Ctr%3Dpla%7Chk%3D54855f3cd801c2c41068819b457b4cedc1046992)
+> price : 23,900  
+> link : [link](https://smartstore.naver.com/gamsungfactorystore/products/6035260575?n_media=27758&n_query=%EB%A7%A5%EB%B6%81%EA%B1%B0%EC%B9%98%EB%8C%80&n_rank=1&n_ad_group=grp-a001-02-000000019791610&n_ad=nad-a001-02-000000160442206&n_campaign_type=2&n_mall_id=ncp_1ntrua_01&n_mall_pid=6035260575&n_ad_group_type=2&NaPm=ct%3Dleqk2dy0%7Cci%3D0yK0003t6e1yNj2EQv0f%7Ctr%3Dpla%7Chk%3D54855f3cd801c2c41068819b457b4cedc1046992)
 
 ## 강의
 - SWIFT
