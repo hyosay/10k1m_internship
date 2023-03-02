@@ -11,4 +11,13 @@
 
 ##### 1. 키보드
 - Logitech k380
+
 ##### 2. 마우스
+- MICROSOFT 모던 모바일 마우스
+
+##### 3. 도서
+.
+##### 4. 강의
+- SWIFT
+ [SWFIT 기초 문법](https://www.inflearn.com/course/%EC%A0%95%EB%8C%80%EB%A6%AC-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EC%B4%88#curriculum)
+
