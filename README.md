@@ -1,12 +1,12 @@
 # 10k1m_Internship
-
+##  period    
+2023.03.01 ~ 06.30
 
 ## 계획
 
 * Swift 언어학습 및 ios앱 개발
 * ios와 연계하여 Macos, iPados 등 애플에서 제공하는 API, SDK 적극 사용
 * Flutter, React Native
-
 
 ## 강의
 
