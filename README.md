@@ -33,7 +33,28 @@ Price : Free
 Result : swift 문법이해   
 
 
+## Daily Work Refort
+### 3/6(mon)
 
+1. for statement
+2. enum statement
+3. unwrap optional
+4. class
+5. struct
+
+#### *programming(Coding) Style*   
+##### 🐫CamelCase   
+- lowerCamelCase    
+맨 앞글자를 소문자로 표기하며, 나머지 뒤에 따라붙는 단어들의 앞글자는 대문자로 표기한다.      
+> ex) hyoSeong, camelCase  
+
+- UpperCamelCase(=PascalCase)   
+맨 앞글자를 대문자로 표기하며, 나머지 뒤에 따라붙는 단어들의 앞글자 역시 대문자로 표기한다. 
+> ex) HyoSeong, CamelCase, MacBook
+
+###### Rule    
+-> Lower camel Case : Fuction, Method, Variable, Constant   
+-> Upper Camel Case : type(class, struct, enum, extension...)
 
 
 #### 부족한 것
