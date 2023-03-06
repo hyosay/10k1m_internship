@@ -8,6 +8,45 @@
 * ios와 연계하여 Macos, iPados 등 애플에서 제공하는 API, SDK 적극 사용
 * Flutter, React Native
 
+
+### why swift?
+
+
+ mobile app을 dev하기 위해서는 어떤 solution이 가장 적합할지 선택을 해야합니다.
+
+대표적으로 분류를 한다면 
+
+1. 네이티브 앱
+2. 웹 앱
+3. 하이브리드 앱
+4. 크로스 플랫폼
+
+이렇게 분류를 할 수 있다.
+
+
+우선 Android 또는 IOS 같은 구체적인 플랫폼을 위해 만들어진 응용 프로그램을 네이티브 앱(Native App)이라고 한다.
+
+
+우선 네이티브 앱은 속도가 빠르고 운영체제 업데이트 시 최신 기능을 바로 반영할 수 있으며 보안성이 뛰어납니다.    
+하지만 Android, ios 각각의 언어로 개발해야 하므로 비용 및 시간이 많이 소모되는 단점이 있습니다.
+
+Android -> Kotlin, Java, android studio   
+IOS -> Swift, Objective C, xcode
+
+ios, 안드로이드 앱 개발 지식이 필요
+
+
+2. 
+
+
+또한 최근에는 크로스(멀티) 플랫폼 프레임 워크(Cross-Platform-Frameworks의 인기가 증가하고 있다.
+
+Google이 만든 Flutter, Facebook이 만든 React Native가 대표적인 예입니다.
+
+나 역시도 쉽게 배울 수 있는 flutter나 react native를 공부하려고 했다.
+
+
+
 ## 강의
 
 ### swift Basic
