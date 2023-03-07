@@ -53,3 +53,16 @@ wbs task, 일정 randr
 일의 우선순위를 정해서 하는 것
 
 
+애자일을 성공하려면
+
+애자일 팀 구성원의 역량 강화가 필수
+
+- 클린코드(Clean Code)
+- 객체 지향 프로그래밍(OOP)
+- 테스트 주도 개발(TDD)
+- 리펙토링(Refactoring)
+- 짝 프로그래밍(Pair Programming)
+- 코드 리뷰(Code Review)
+
+
+
