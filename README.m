@@ -130,14 +130,6 @@ class Counter {
 
 
 
-
-
-
-
-
-
-
-
 #### 부족한 것
 > english   
 > software Architecture    
