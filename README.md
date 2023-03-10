@@ -58,7 +58,6 @@ Google이 만든 Flutter, Facebook이 만든 React Native가 대표적인 예입
 ## 강의
 
 ### swift Basic
-0
 Name : 개발하는 정대리 스위프트 기초 문법   
 Link : https://www.inflearn.com/course/%EC%A0%95%EB%8C%80%EB%A6%AC-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EC%B4%88#curriculum   
 Price : Free  
@@ -66,7 +65,6 @@ Result : Xcode14, Swift 5의 최신 문법을 이해
 
 
 ### swiftUI Basic
-
 Name : 누구나 할 수 있는 - SwiftUI Basic with iOS 16   
 Link : https://www.inflearn.com/course/%EB%88%84%EA%B5%AC%EB%82%98-swiftui-ios16#curriculum   
 Price : 77,000원   
@@ -74,7 +72,6 @@ Result : 앱 구조 이해 및 SwiftUI를 사용한 앱 개발 지식 획득
 
 
 ### 도서   
-
 Name : The Swift Programming Language   
 Price : Free    
 Result : swift 문법이해   
@@ -104,10 +101,48 @@ Result : swift 문법이해
 -> Upper Camel Case : type(class, struct, enum, extension...)
 
 
+
+
+
+### 3/10(fri)
+#### Swift Lauguage
+#### 1. Peoperies(프로퍼티)     
+
+
+
+
+#### 2. Methods(메소드)
+특정 타입의 클래스, 구조체, 열거형과 관련된 함수를 메소드라고 함
+```swift
+class Counter {
+    var count = 0
+    func incrment() {
+        count += 1
+    }
+    func reset() {
+        count = 0
+    }
+}
+```
+
+위 예시와 같이 클래스(Class)안에 func을 사용하였으며 이러한 함수를 **메소드**라고 한다.
+
+
+
+
+
+
+
+
+
+
+
+
 #### 부족한 것
 > english   
 > software Architecture    
 > app dev     
+
 
 
 
