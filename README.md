@@ -101,32 +101,7 @@ Result : swift 문법이해
 -> Upper Camel Case : type(class, struct, enum, extension...)
 
 
-
-
-
-### 3/10(fri)
-#### Swift Lauguage
-#### 1. Peoperies(프로퍼티)     
-
-
-
-
-#### 2. Methods(메소드)
-특정 타입의 클래스, 구조체, 열거형과 관련된 함수를 메소드라고 함
-```swift
-class Counter {
-    var count = 0
-    func incrment() {
-        count += 1
-    }
-    func reset() {
-        count = 0
-    }
 }
-```
-
-위 예시와 같이 클래스(Class)안에 func을 사용하였으며 이러한 함수를 **메소드**라고 한다.
-
 
 
 
